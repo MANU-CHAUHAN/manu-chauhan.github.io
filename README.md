@@ -1,1 +1,1 @@
-# manu-chauhan.github.io
+# Personal blog of Manu Chauhan for all things Tech
